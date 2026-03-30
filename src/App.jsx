@@ -76,32 +76,32 @@ const Projects = () => {
     {
       title: "Video Call Web App",
       description: "A real-time video synchronization and communication platform built with modern web tech.",
-      live: "https://video-callfrontend-qg2v.onrender.com",
+      live: "Coming Soon", //https://video-callfrontend-qg2v.onrender.com
       github: "#"
     },
     {
       title: "Zerodha Web Dashboard",
       description: "A comprehensive trading and financial dashboard inspired by Zerodha.",
-      live: "https://zerodha-frontend-kszl.onrender.com",
+      live: "Coming Soon",//https://zerodha-frontend-kszl.onrender.com
       github: "#"
     },
     {
       title: "Disaster Alert System",
       description: "App tracking and alerting users about real-time global disasters and warnings.",
-      live: "https://disasterweb.onrender.com",
+      live: "Coming",//https://disasterweb.onrender.com
       github: "#"
     },
     {
       title: "Weather Dashboard",
       description: "Responsive weather application featuring dynamic gradients and real-time API integrations.",
-      live: "https://weather-sepia-nine.vercel.app/",
+      live: "Coming Soon",//https://weather-sepia-nine.vercel.app/
       github: "#"
     },
     {
       title: "Airbnb Clone",
       description: "A full-scale property booking application replicating Airbnb's core user experience.",
-      live: "https://airbnbweb-0gah.onrender.com",
-      github: "https://github.com/sumit7444/airbnb.git"
+      live: "Coming",//https://airbnbweb-0gah.onrender.com
+      github: "#"
     },
     {
       title: "More to come",
