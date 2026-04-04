@@ -104,6 +104,12 @@ const Projects = () => {
       github: "#"
     },
     {
+      title: "Threat detection system",
+      description: "AI-Based Threat Detection System that analyzes text and URLs in real-time to identify potential threats, hate speech, and toxic content using NLP and machine learning models.",
+      live: "Coming",
+      github: "#"
+    },
+    {
       title: "More to come",
       description: "I'm constantly working on new projects. Check back soon for more updates, or connect with me to discuss collaborations.",
       live: "Coming Soon",
