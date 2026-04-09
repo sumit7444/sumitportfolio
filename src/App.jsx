@@ -104,6 +104,18 @@ const Projects = () => {
       github: "#"
     },
     {
+      title: "Todo List App",
+      description: "This is a Simple TODO LIST APP add Feature Add Task , Delete Task & Done Task.",
+      live: "Coming",
+      github: "#"
+    },
+    {
+      title: "Healthcare Portal",
+      description: "A full-scale property booking application like Healthcare Portal. This project is designed to connect patients with healthcare providers, allowing users to book appointments, access medical records, and receive personalized health recommendations.",
+      live: "Coming",
+      github: "#"
+    },
+    {
       title: "Threat detection system",
       description: "AI-Based Threat Detection System that analyzes text and URLs in real-time to identify potential threats, hate speech, and toxic content using NLP and machine learning models.",
       live: "Coming",
