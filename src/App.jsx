@@ -122,6 +122,12 @@ const Projects = () => {
       github: "#"
     },
     {
+      title: "Buisness Web App",
+      description: "Factory work, dismantling, heavy lifting, transportation. Premium pan-India service from Kolkata.",
+      live: "Coming",
+      github: "#"
+    },
+    {
       title: "More to come",
       description: "I'm constantly working on new projects. Check back soon for more updates, or connect with me to discuss collaborations.",
       live: "Coming Soon",
