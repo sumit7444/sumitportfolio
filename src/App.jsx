@@ -128,6 +128,12 @@ const Projects = () => {
       github: "#"
     },
     {
+      title: "Smart Attendance System",
+      description: "An intelligent attendance system using facial recognition and machine learning to automate attendance tracking in educational institutions.",
+      live: "Coming",
+      github: "#"
+    },
+    {
       title: "More to come",
       description: "I'm constantly working on new projects. Check back soon for more updates, or connect with me to discuss collaborations.",
       live: "Coming Soon",
