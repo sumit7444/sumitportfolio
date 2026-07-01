@@ -134,6 +134,24 @@ const Projects = () => {
       github: "#"
     },
     {
+      title: "Expense Tracker",
+      description: "A web application that allows users to track their expenses, categorize them, and visualize spending patterns over time.",
+      live: "Coming",
+      github: "#"
+    },
+    {
+      title: "Web Scraper",
+      description: "A tool that extracts data from websites and presents it in a structured format for analysis or reporting.",
+      live: "Coming",
+      github: "#"
+    },
+    {
+      title: "Ai ChatBot",
+      description: "An AI-powered chatbot that can answer questions, provide recommendations, and assist users in various tasks using natural language processing.",
+      live: "Coming",
+      github: "#"
+    },
+    {
       title: "More to come",
       description: "I'm constantly working on new projects. Check back soon for more updates, or connect with me to discuss collaborations.",
       live: "Coming Soon",
