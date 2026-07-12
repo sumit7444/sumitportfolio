@@ -113,6 +113,7 @@ a {
 .heading-gradient {
   background: linear-gradient(135deg, var(--accent-blue), var(--accent-indigo), var(--accent-purple));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 200% auto;
   animation: gradientPan 4s linear infinite;
