@@ -178,7 +178,9 @@ const Hero = () => {
         </div>
         <div className="hero-image-container">
           <div className="profile-avatar-wrapper">
-            <img src="/profile1.jpg" alt="Sumit Prajapati Profile" className="profile-avatar" onError={(e) => {
+            <img
+            src={`${import.meta.env.BASE_URL}profile1.jpg`}
+              alt="Sumit Prajapati Profile"className="profile-avatar"onError={(e) => {
               e.target.onerror = null;
               e.target.style.display = 'none'; // hide broken image and use styled wrapper placeholder
             }} />
