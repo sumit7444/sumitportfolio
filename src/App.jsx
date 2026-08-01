@@ -436,6 +436,33 @@ const Projects = () => {
       live: "#",
       github: "https://github.com/sumit7444"
     },
+    {
+      title: "ALLBUS",
+      description: "Built a full-stack ALLBUS Web app handed multi Operator ,Bus in One application Role cateorise Admin,operator,Conductor,Driver&include chatbot ai",
+      category: "Active",
+      tech: ["React",  "PostgreSQl", "Talwind CSS","Node.js","Chart.js","Cloudinary","SMTP","GeminiAPI"],
+      status: "Progress",
+      live: "#",
+      github: "https://github.com/sumit7444"
+    },
+    {
+      title: "Edgevision Ai",
+      description: "Built a full-stack Edgevisionai Web app Real-Time Industrial Worker Safety Monitoring System",
+      category: "Active",
+      tech: ["React",  "PostgreSQl", "Talwind CSS","Node.js","YOLOv8n","best.pt(Roboflow)","Python",],
+      status: "Progress",
+      live: "#",
+      github: "https://github.com/sumit7444"
+    },
+    {
+      title: "UniDeviceHub",
+      description: "Built a full-stack UniDeviceHub Web app Transfer the data and handled the multiple Phone single application",
+      category: "Active",
+      tech: ["React",  "PostgreSQl", "Talwind CSS","Node.js","YOLOv8n",,"Python",],
+      status: "Done",
+      live: "#",
+      github: "https://github.com/sumit7444"
+    },
     
     
     
